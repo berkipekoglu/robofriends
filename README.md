@@ -2,6 +2,9 @@
 
 React.js için ufak bir pekiştirme projesidir.
 
+## Demo görünüm
+<img src="https://github.com/berkipekoglu/robofriends/blob/master/demo.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
